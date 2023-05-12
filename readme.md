@@ -1,5 +1,5 @@
-# A LittleLink Custom Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+# A LinkStack Theme
+Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Dark
 *	Theme Version: 1.1
@@ -7,7 +7,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: MIT
-*	Source code: https://github.com/JulianPrieber/Dark
+*	Source code: https://github.com/LinkStackOrg/Dark
 
 
 ### Used assets:
