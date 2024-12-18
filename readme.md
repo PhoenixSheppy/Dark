@@ -7,7 +7,7 @@ Find more themes: https://linkstack.org/themes/
 *	Theme Author: Phoenix, JulianPrieber & LinkStack Team
 *	Theme Author URI: https://github.com/PhoenixSheppy
 *	Theme License: MIT
-*	Source code: https://github.com/PhoenixSheppy/Dark
+*	Source code: https://github.com/PhoenixSheppy/Dark-Custom
 
 
 ### Used assets:
