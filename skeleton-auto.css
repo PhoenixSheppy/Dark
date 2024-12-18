@@ -64,16 +64,16 @@
     min-height: 100vh;
     font-family: var(--font-family) !important;
     background-color: var(--background-color);
-    background-image: var(--background-image);
+    background-image: radial-gradient(circle at center,black 0.25rem, transparent 0), var(--background-image);
     color: var(--title-color);
     background-position: center;
-    background-repeat: no-repeat;
+    background-size: 1rem 1rem;
+    background-repeat: round;
     font-size: var(--font-size);
     line-height: 1.5;
     font-weight: 400;
-  }
+}
 
-  
   /* Animation */
   @keyframes transitionAnimation {
     0% {
