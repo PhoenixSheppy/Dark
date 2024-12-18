@@ -86,6 +86,20 @@ Down below, you can find a few examples using this function:
   unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;
 }
 
+/* gg sans*/
+@font-face { font-family: 'gg sans Bold'; font-style: normal; font-weight: normal;
+  src: local('gg sans Bold'), url('gg sans Bold.woff') format('woff');
+}
+@font-face { font-family: 'gg sans Normal Regular'; font-style: normal; font-weight: normal;
+  src: local('gg sans Normal Regular'), url('gg sans Regular.woff') format('woff');
+}
+@font-face { font-family: 'gg sans Medium Regular'; font-style: normal; font-weight: normal;
+  src: local('gg sans Medium Regular'), url('gg sans Medium.woff') format('woff');
+}
+@font-face { font-family: 'gg sans SemiBold Regular'; font-style: normal; font-weight: normal;
+  src: local('gg sans SemiBold Regular'), url('gg sans Semibold.woff') format('woff');
+}
+
 html {
     font-size: 100%; }
 
@@ -93,7 +107,7 @@ html {
 :root {
 
   /* You can change the font family in the whole design here. (You need to add the font family to the codes.) */
-  --font-family: 'Inter', sans-serif;
+  --font-family: 'gg sans', 'Normal Regular';
 
   /* You can change the font size here, is proportional to all texts. */
   --font-size: 16px;

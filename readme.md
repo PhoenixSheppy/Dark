@@ -1,11 +1,11 @@
 # A LinkStack Theme
 Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
-*	Theme Name: Dark
-*	Theme Version: 1.4
-*	Theme Date: 2022-11-21
-*	Theme Author: JulianPrieber & LinkStack Team
-*	Theme Author URI: https://github.com/JulianPrieber
+*	Theme Name: Dark-Custom
+*	Theme Version: 1.0
+*	Theme Date: 2024-12-18
+*	Theme Author: Phoenix, JulianPrieber & LinkStack Team
+*	Theme Author URI: https://github.com/PhoenixSheppy
 *	Theme License: MIT
 *	Source code: https://github.com/LinkStackOrg/Dark
 
