@@ -88,16 +88,16 @@ Down below, you can find a few examples using this function:
 
 /* gg sans*/
 @font-face { font-family: 'gg sans Bold'; font-style: normal; font-weight: normal;
-  src: local('gg sans Bold'), url('gg sans Bold.woff') format('woff');
+  font-display: swap; src: url('{{themeAsset('gg sans Bold.woff')}}');
 }
 @font-face { font-family: 'gg sans Normal Regular'; font-style: normal; font-weight: normal;
-  src: local('gg sans Normal Regular'), url('gg sans Regular.woff') format('woff');
+  font-display: swap; src: url('{{themeAsset('gg sans Regular.woff')}}');
 }
 @font-face { font-family: 'gg sans Medium Regular'; font-style: normal; font-weight: normal;
-  src: local('gg sans Medium Regular'), url('gg sans Medium.woff') format('woff');
+  font-display: swap; src: url('{{themeAsset('gg sans Medium.woff')}}');
 }
 @font-face { font-family: 'gg sans SemiBold Regular'; font-style: normal; font-weight: normal;
-  src: local('gg sans SemiBold Regular'), url('gg sans Semibold.woff') format('woff');
+  font-display: swap; src: url('{{themeAsset('gg sans Semibold.woff')}}');
 }
 
 html {
