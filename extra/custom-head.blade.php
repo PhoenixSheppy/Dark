@@ -107,7 +107,7 @@ html {
 :root {
 
   /* You can change the font family in the whole design here. (You need to add the font family to the codes.) */
-  --font-family: 'gg sans', 'Normal Regular';
+  --font-family: 'gg sans Normal Regular';
 
   /* You can change the font size here, is proportional to all texts. */
   --font-size: 16px;
